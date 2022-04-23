@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.quiltmc</groupId>
+  <artifactId>quilt-loader</artifactId>
+  <versioning>
+    <latest>0.16.0-beta.9+local</latest>
+    <release>0.16.0-beta.9+local</release>
+    <versions>
+      <version>0.16.0-beta.9+local</version>
+    </versions>
+    <lastUpdated>20220423005619</lastUpdated>
+  </versioning>
+</metadata>
